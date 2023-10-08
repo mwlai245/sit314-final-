@@ -4,3 +4,4 @@ SIT314 final project
 ### Step 2: run node server.js
 ### Step 3: node client.js
 ### Step 4: python plotter.py in a different folder within the terminal 
+### When plotting graph make sure you run step for in an python virtual environment venv
